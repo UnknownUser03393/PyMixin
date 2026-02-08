@@ -1,2 +1,4 @@
 # PyMixin
-Powered by Lettucq Project; Mixin in python.
+---
+Powered by Lettucq Project; SpongePowered.Mixin-like library in python.
+
